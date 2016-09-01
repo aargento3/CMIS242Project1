@@ -1,0 +1,9 @@
+2014 Employee Smith,John 2000
+2014 Salesman Jones,Bill 3000 100000 
+2014 Executive Bush,Jeb 5000 55
+2015 Executive Argento,Anthony 6000 76
+2014 Employee Duck,Daffy 3000 
+2015 Salesman Bunny,Bugs 1000	200000
+2015 Executive Fudd,Elmer 10000 20
+2014 Employee Oil,Olive 3000
+2015 Employee Clinton,Bill 1
